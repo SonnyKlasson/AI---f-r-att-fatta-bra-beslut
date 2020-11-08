@@ -1,10 +1,7 @@
 # Projekt Titel
 
-Slutprojekt för Building AI-kursen
-
+Slutprojekt för B uilding AI-kurs  AI- beslutsstöd
 ## Sammanfattning
-
-Beskriv kort i 2-3 meningar vad ditt projekt handlar om. Cirka 250 tecken är en fin längd!
 
 
 ## Bakgrund
