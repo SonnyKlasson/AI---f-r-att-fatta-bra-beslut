@@ -1,8 +1,8 @@
 # Projekt Titel
 
-Slutprojekt för B uilding AI-kurs  AI- beslutsstöd
-## Sammanfattning
 
+
+## Sammanfattning
 
 ## Bakgrund
 
