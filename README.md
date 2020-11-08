@@ -18,11 +18,10 @@ Beskriv processen för användning av lösningen. I vilka slags situationer beh�
 
 Bilder får din README att se snygg ut!
 När du väl laddat upp en bild till ditt arkiv kan du länka länken till den så här (ersätt webbadressen med filsökväg om du har laddat upp en bild till Github.)
-! [Cat] (https://github.com/SonnyKlasson/AI-decision-support/blob/f64056d77c2a8f04d324af8febbfbecd11eb20cc/Systemskiss_AI_tj%C3%A4nster.vsdx)
+! [Cat] (https://github.com/SonnyKlasson/AI-decision-support/blob/f64056d77c2a8f04d324af8febbfbecd11eb20cc/Systemskiss_AI_tj%C3%A4nster.vsx)
 
-Om du behöver ändra storlek på bilder måste du använda en HTML-tagg så här:
-<img src = "https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width = "300">
-
+Om du behöver ändra storlek på bilder måste du använda en HTML-tagg så här  
+<img src = "https://github.com/SonnyKlasson/AI-decision-support/blob/f64056d77c2a8f04d324af8febbfbecd11eb20cc/Systemskiss_AI_tj%C3%A4nster.vsdx" width="300">
 Så här skapar du exempel på kod:
 '' '
 def huvud ():
