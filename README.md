@@ -3,7 +3,7 @@
 Slutprojekt för Building AI-kursen, AI-beslutssstöd
 
 ## Sammanfattning
-
+Allt oftare kommer vi att behöva ha stöd för att fatta genomtänkta beslut eftersom det är så mycket information som behöver analyseras. För att göra snabba analyser använder vi oss av Artificiell Intelligens. Det vi gör är att köpa in Big Data eller information ifrån informationsleverantörer och utifrån denna information träna upp vårt Neurala nätverk för att skapa förutsättningar för ett bra beslutsstöd för just dig eller ditt företag.Tanken med denna portal är att skapa möjligheter för privatpersoner och mindre företag att nyttja vår tjänst.
 ## Bakgrund
 
 Vilka problem löser din idé? Hur vanligt eller ofta är detta problem? Vad är din personliga motivation? Varför är det här ämnet viktigt eller intressant?
